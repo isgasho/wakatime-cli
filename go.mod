@@ -3,6 +3,7 @@ module github.com/wakatime/wakatime-cli
 go 1.14
 
 require (
+	github.com/alecthomas/chroma v0.8.0
 	github.com/matishsiao/goInfo v0.0.0-20200404012835-b5f882ee2288
 	github.com/mattn/go-sqlite3 v1.14.0
 	github.com/mitchellh/go-homedir v1.1.0
